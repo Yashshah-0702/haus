@@ -1,9 +1,13 @@
 body {
     font-family: Playfair Display;
-    /* font-size: 20px; */
-    /* font-style: italic; */
-    /* font-weight: 500;
-    line-height: 27px;
-    letter-spacing: 0.15em;
-    text-align: center; */
 }    
+.color1{
+    background: #E7F2ED;
+}
+.color2{
+    background: #F2F2E6;
+}
+.border-color1{
+    border:  solid #d0d0a7;
+}
+
